@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NGNM Enterprises LTD</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    img.logo {
+      max-width: 300px;
+      width: 100%;
+      margin: 0 auto 2rem;
+      display: block;
+    }
+    h1 {
+      font-size: 2.8rem;
+      color: #ff3333;
+      margin: 0;
+    }
+    h2 {
+      font-size: 1.4rem;
+      color: #ccc;
+      margin-bottom: 2rem;
+    }
+    .slogan {
+      font-size: 1.3rem;
+      font-weight: bold;
+      margin-top: 30px;
+    }
+    .subtext {
+      font-style: italic;
+      color: #aaa;
+      margin-bottom: 2rem;
+    }
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 24px;
+      background-color: #ff3333;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    .links a:hover {
+      background-color: #cc0000;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="https://raw.githubusercontent.com/KINGDREWZA/ngnm_enterprizses_ltd/main/logo.png" alt="NGNM Logo" class="logo">
+
+  <h1>NGNM Enterprises LTD</h1>
+  <h2>Official Command Center</h2>
+
+  <div class="slogan">NO GODS. NO MASTERS. NO MERCY.</div>
+  <div class="subtext">We’re a faithless breed with a righteous creed.</div>
+
+  <div class="links">
+    <a href="#">🛠️ Employment Division</a>
+    <a href="#">🔥 Tobacco Ops</a>
+    <a href="#">🌄 Survival Plan</a>
+    <a href="#">🪶 Contact HQ</a>
+  </div>
+
+</body>
+</html>
