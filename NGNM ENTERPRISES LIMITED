@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NGNM Enterprises LTD</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    img.logo {
+      max-width: 300px;
+      margin: 20px auto;
+      display: block;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #ff3333;
+      margin-bottom: 0;
+    }
+    h2 {
+      font-size: 1.2rem;
+      color: #aaa;
+      margin-top: 0;
+    }
+    .slogan {
+      margin-top: 40px;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .subtext {
+      font-style: italic;
+      color: #ccc;
+      margin-top: 10px;
+    }
+    .links a {
+      display: inline-block;
+      margin: 20px;
+      padding: 10px 20px;
+      background: #ff3333;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .links a:hover {
+      background: #cc0000;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="https://kingdrewza.github.io/ngnm_wall_of_shame/logo.png" alt="NGNM Logo" class="logo" />
+
+  <h1>NGNM Enterprises LTD</h1>
+  <h2>Official Command Center</h2>
+
+  <div class="slogan">NO GODS. NO MASTERS. NO MERCY.</div>
+  <div class="subtext">We’re a faithless behemoth from a rural amplifier.™</div>
+
+  <div class="links">
+    <a href="https://kingdrewza.github.io/ngnm_wall_of_shame/">⚰️ Wall of Shame</a>
+    <a href="#">🛠️ Employment Division</a>
+    <a href="#">🔥 Tobacco Ops</a>
+    <a href="#">🏕️ Survival Plan</a>
+    <a href="#">📡 Contact HQ</a>
+  </div>
+
+</body>
+</html>
